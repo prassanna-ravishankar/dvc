@@ -10,6 +10,7 @@ from dvc.commands import (
     cache,
     check_ignore,
     checkout,
+    clearml,
     commit,
     completion,
     config,
@@ -93,6 +94,7 @@ COMMANDS = [
     check_ignore,
     machine,
     data,
+    clearml,
 ]
 
 
